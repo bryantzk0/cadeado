@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
 
 :root{
-    --purple: rgb(98, 0, 117);
-    --cor-de-fundo: #8e00aa;
+    --purple: rgb(212, 0, 255);
+    --cor-de-fundo: #620075;
     --fundo-senha: #8400ff;
     --fundo-texto: #6200ff;
     --borda: #e5ff00;
