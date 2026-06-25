@@ -150,7 +150,7 @@ label{
         flex-direction: row;
     }
     .footer {
-    background-color: #1e1e2e;
+    background-color: #ae00ff;
     color: #6f00ff;
     text-align: center;
     padding: 25px 20px;
@@ -165,7 +165,7 @@ label{
 }
 
 .footer strong {
-    color: #fff;
+    color: #eeff00;
 }
 
 .footer-links {
